@@ -118,9 +118,7 @@ The notebook demonstrates a sophisticated multi-agent system for designing "SeeA
 ```
 AutoGen-Gemini/
 ├── AutoGen_Gemini.ipynb    # Main notebook with examples
-├── README.md               # This file
-├── coding/                 # Output directory for generated code
-└── requirements.txt        # Dependencies (if added)
+└── README.md               # This file
 ```
 
 ## Example Output
